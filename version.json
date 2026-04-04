@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "isRequired": true,
+  "features": [
+    "Added live real-time leaderboard",
+    "Implemented PIN security features",
+    "Enhanced UI elements"
+  ],
+  "downloadUrl": "YOUR_GITHUB_APK_DIRECT_LINK_HERE"
+}
