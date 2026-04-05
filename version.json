@@ -1,10 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.6",
   "isRequired": true,
   "features": [
-    "Added live real-time leaderboard",
-    "Implemented PIN security features",
-    "Enhanced UI elements"
+    "flash light fix",
+    "Chnage Backend to Render"
   ],
-  "downloadUrl": "https://github.com/rakeshsingh157/version-ECO-WALLET/releases/download/v1.0.2/app-release.apk"
+  "downloadUrl": "https://github.com/rakeshsingh157/version-ECO-WALLET/releases/download/v1.0.6/app-release.apk"
 }
