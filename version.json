@@ -1,9 +1,10 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "isRequired": true,
   "features": [
-    "Firebase & FCM push notifications configuration",
-    "Bug fixes and performance improvements"
+    "Scanner corner and UI optimizations",
+    "Merchant backend integration updates",
+    "General bug fixes and performance improvements"
   ],
-  "downloadUrl": "https://github.com/rakeshsingh157/version-ECO-WALLET/releases/download/v1.0.7/app-release.apk"
+  "downloadUrl": "https://github.com/rakeshsingh157/version-ECO-WALLET/releases/download/v1.0.8/app-release.apk"
 }
