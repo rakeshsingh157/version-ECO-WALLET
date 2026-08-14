@@ -1,11 +1,11 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "isRequired": true,
   "features": [
+    "Live debounced real-time recipient ID & store lookup",
+    "Real-time visual feedback with Verified Recipient and Invalid ID cards",
     "Strict unique recipient ID / Phone validation (payments strictly by ID)",
-    "Verified recipient ID badge & instant invalid ID warning",
-    "Atomic balance rollback and failure guarantees",
     "Prominently highlight merchant name on success screen"
   ],
-  "downloadUrl": "https://github.com/rakeshsingh157/version-ECO-WALLET/releases/download/v1.0.14/app-release.apk"
+  "downloadUrl": "https://github.com/rakeshsingh157/version-ECO-WALLET/releases/download/v1.0.15/app-release.apk"
 }
