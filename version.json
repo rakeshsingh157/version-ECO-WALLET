@@ -1,11 +1,11 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "isRequired": true,
   "features": [
-    "Live debounced real-time recipient ID & store lookup",
-    "Real-time visual feedback with Verified Recipient and Invalid ID cards",
-    "Strict unique recipient ID / Phone validation (payments strictly by ID)",
-    "Prominently highlight merchant name on success screen"
+    "Strict client-side transfer validation rejecting unverified & 1-2 char recipient IDs",
+    "Real-time live ID existence verification on every non-empty character",
+    "Fixed Change PIN & Turn Off PIN server validation and hashing logic",
+    "Resilient PIN authentication supporting 4 to 6 digit security PINs"
   ],
-  "downloadUrl": "https://github.com/rakeshsingh157/version-ECO-WALLET/releases/download/v1.0.15/app-release.apk"
+  "downloadUrl": "https://github.com/rakeshsingh157/version-ECO-WALLET/releases/download/v1.0.16/app-release.apk"
 }
